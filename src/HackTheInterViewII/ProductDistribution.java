@@ -57,8 +57,13 @@ Sample Output 1
 Explanation 1
 All the four products must be placed in the first segment. The score in this case will be 1 * (4 + 1 + 9 + 7) = 21.
 */
+
 package HackTheInterViewII;
 
 public class ProductDistribution
 {
+    public static void main(String[] args)
+    {
+
+    }
 }
